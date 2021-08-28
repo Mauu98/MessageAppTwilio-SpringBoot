@@ -1,0 +1,5 @@
+twilio:
+  account_sid: #SID DE CUENTA EN TWILIO
+  auth_token: #TOKEN
+  trial_number: #NUMERO PROVISTO POR TWILIO
+
